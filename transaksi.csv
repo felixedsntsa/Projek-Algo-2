@@ -1,0 +1,11 @@
+id,customer,tanggal_peminjaman,tanggal_pengembalian,unit,admin,metode_pembayaran,status_pembayaran
+1,Budi,12-03-2024,17-03-2024,Canon 600d,rahardan@gmail.com,cash,lunas
+2,Yanto,13-03-2024,18-03-2024,Canon 700d,felix@gmail.com,cash,lunas
+4,Iwan,17-03-2024,20-03-2024,Nikon z5,ahim@gmail.com,cash,belum lunas
+5,Ezra,10-04-2024,15-04-2024,Fujifilm xa3,ahim@gmail.com,debit,belum lunas
+6,Fais,10-04-2024,18-04-2024,Sony zv,ken@gmail.com,cash,belum lunas
+7,Santosa,10-04-2024,20-04-2024,Nikon zf,felix@gmail.com,debit,lunas
+8,Jenar,17-04-2024,20-04-2024,Fujifilm xa10,felix@gmail.com,cash,lunas
+9,Icang,19-04-2024,20-04-2024,Cannon 600d,rahardan@gmail.com,cash,lunas
+10,Kusuma,20-04-2024,21-04-2024,Nikon z5,rahardan@gmail.com,cash,lunas
+11,Hudie,30-05-2024,31-05-2024,Sony zvx,felix@gmail.com,cash,lunas
